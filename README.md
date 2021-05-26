@@ -27,8 +27,10 @@ And please give some love to our featured sponsors 🤩:
 <table><tr>
 <td align="center"><a href="http://chads.website"><img src="https://graphile.org/images/sponsors/chadf.png" width="90" height="90" alt="Chad Furman" /><br />Chad Furman</a> *</td>
 <td align="center"><a href="https://storyscript.com/?utm_source=postgraphile"><img src="https://graphile.org/images/sponsors/storyscript.png" width="90" height="90" alt="Storyscript" /><br />Storyscript</a> *</td>
-<td align="center"><a href="https://surge.io/"><img src="https://graphile.org/images/sponsors/surge.png" width="90" height="90" alt="Surge.io" /><br />Surge.io</a> *</td>
 <td align="center"><a href="https://postlight.com/?utm_source=graphile"><img src="https://graphile.org/images/sponsors/postlight.jpg" width="90" height="90" alt="Postlight" /><br />Postlight</a> *</td>
+<td align="center"><a href="https://surge.io/"><img src="https://graphile.org/images/sponsors/surge.png" width="90" height="90" alt="Surge.io" /><br />Surge.io</a> *</td>
+<td align="center"><a href="https://www.sterblue.com/"><img src="https://graphile.org/images/sponsors/sterblue.png" width="90" height="90" alt="Sterblue" /><br />Sterblue</a></td>
+<td align="center"><a href="https://politicsrewired.com/"><img src="https://graphile.org/images/sponsors/politics-rewired.png" width="90" height="90" alt="Politics Rewired" /><br />Politics Rewired</a></td>
 </tr></table>
 
 <em>\* Sponsors the entire Graphile suite</em>
